@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/:path*", "has": [{ "type": "host", "value": "www.kleenvedha.com" }], "destination": "https://kleenvedha.com/:path*", "permanent": true }
+  ]
+}
